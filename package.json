@@ -1,6 +1,6 @@
 {
   "name": "gather-events",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Listen to an EventEmitter for some events and then return an ordered array of events that were emitted.",
   "main": "lib/index.js",
   "scripts": {
@@ -19,9 +19,13 @@
     "collect",
     "gather",
     "test",
-    "tool"
+    "tool",
+    "micro"
   ],
-  "author": "Matthew Francis Brunetti <=>",
+  "author": {
+    "name": "Matthew Francis Brunetti",
+    "email": "zenflow87@gmail.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/zenflow/gather-events/issues"
