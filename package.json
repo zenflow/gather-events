@@ -1,6 +1,6 @@
 {
   "name": "gather-events",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Listen to an EventEmitter for some events and then return an ordered array of events that were emitted.",
   "main": "lib/index.js",
   "scripts": {
